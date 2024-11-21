@@ -1,0 +1,5 @@
+Exercice sur le git: fait!!!
+- J'ai créé un repertory sur mon profil git; 
+- Puis je l'ai cloné afin d'y ajouter les dossiers de chaque exercice en TyScript; 
+- J'ai fait un commit puis push mes modifications pour ajouter l'ensemble des sous-dossiers
+et leurs fichiers.

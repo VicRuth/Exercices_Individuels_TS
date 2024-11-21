@@ -1,0 +1,2 @@
+npx tsc script.ts : pour compiler le fichier ts en js ;
+les symboles <,> , =, ≤ et ≥.
